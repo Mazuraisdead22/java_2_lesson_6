@@ -1,4 +1,4 @@
-package com.example.javafx;
+package com.example.javafx_lesson_6;
 
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
